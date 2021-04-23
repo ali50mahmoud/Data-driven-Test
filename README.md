@@ -21,6 +21,12 @@ Step-6: Modify Test and Page Classes
 
 
 step-7 :Build the code once again and Run Tests to verify assertion results
+  
+  
+step -8 : perform Cross Browser Testing & automate test cases using  FireFox & Chrome
+  
 
 
- perform Cross Browser Testing & automate test cases using  FireFox & Chrome
+
+Project was built & tested on selenium 3.8.1,TestNG 6.14.3,poi 3.17, Chrome 56.0.2924.87 ,& Firefox 47.0.2 . If the programs give an error, please update the driver
+
