@@ -1,4 +1,4 @@
-Data Driven Testing with Selenium , TestNG and Excel
+Data Driven Testing with Selenium integrated with TestNG 
 
 (useing excel files in my test automation project for data driven testing.)
 
@@ -18,3 +18,9 @@ Step-5: Create a Test Excel File
 
 
 Step-6: Modify Test and Page Classes
+
+
+step-7 :Build the code once again and Run Tests to verify assertion results
+
+
+ perform Cross Browser Testing & automate test cases using  FireFox & Chrome
