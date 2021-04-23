@@ -31,7 +31,7 @@ Code Location :  Data-driven-Test/php_reg/src/test/java/php_reg
 
 Steps :-
 
-Step-1: Add Apache POI Dependencies
+Step-1: Add Apache POI , Selenium & TestNG Dependencies
 
 
 Step-2: Create an ExcelUtil Class for Data Driven Testing
